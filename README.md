@@ -11,11 +11,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sandipdangi/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg "height="30" width="40" /></a>
-<a href=" https://facebook.com/https://www.facebook.com/sundeep.dangi.9/"><img align="center" src=" https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" height="30" width="40" ></a>
-<a href="https://instagram.com/https://www.instagram.com/dangisundeep/ "><img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white " height="30" width="40" ></a>
-<a href=" https://x.com/https://x.com/coderDangi"><img align="center" src=" https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" height="30" width="40" ></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/sandipdangi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg "height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/dangisundeep/ "><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" ></a>
+<a href=" mailto:sandangip920@gmail.com"><img align="center" src=" https://cdn-icons-png.flaticon.com/512/5968/5968534.png" height="30" width="40" ></a>
 </p>
+
 <div>
   <h2 align="center">🛠️ Languages and Technologies 🛠️</h2>
 
