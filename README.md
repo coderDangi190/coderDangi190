@@ -1,9 +1,9 @@
 
 <div align="right">
-  <img src="https://1drv.ms/i/c/8b4b74dbd7d27922/EWpPPT7NKopPlK-iFiagqxQB0OvJ6xmXPf3e9_Au0c698w?e=bF0nif" />
+  <img src="https://media.licdn.com/dms/image/v2/D4D03AQHmnsGtjFZScw/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1710155008322?e=1741219200&v=beta&t=pI9zxClaudKm5hWtZAFLNBkjEMIvrFBtqxonEaLtVd8" />
 </div>
 <br><br>
-![logo](https://1drv.ms/i/c/8b4b74dbd7d27922/EeSRaURLOGJGgLzNDYRcUbsBZuqTYeLMFK_HQOCUMEq93w?e=ehaSDp)
+![logo](https://media.licdn.com/dms/image/v2/D4E16AQHZhregLk8vVg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1710239078705?e=1741219200&v=beta&t=KXKhEaoHQKQdXD0vUc3EtxFrSRBMY8M2RlY3mB7zUEY)
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Sandip+Dangi;Together+lets+explore+Blockchain" alt="Typing SVG" />
