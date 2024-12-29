@@ -3,7 +3,7 @@
   <img src="https://media.licdn.com/dms/image/v2/D4E16AQHZhregLk8vVg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1710239078705?e=1741219200&v=beta&t=KXKhEaoHQKQdXD0vUc3EtxFrSRBMY8M2RlY3mB7zUEY" />
 </div>
 <br><br>
-![logo](https://avatars.githubusercontent.com/u/192611331?v=4)
+![logo](https://github.com/account)
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Sandip+Dangi;Together+lets+explore+Blockchain" alt="Typing SVG" />
