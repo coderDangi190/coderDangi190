@@ -1,4 +1,20 @@
 
+<div align="right">
+  <img src="<div align="right">
+  <img src="https://komarev.com/ghpvc/?username=rahul1227&label=Profile%20views&color=0e75b6&style=flat" alt="sandip" />
+</div>
+
+<br><br>
+" alt="rahul1227" />
+</div>
+
+<br><br>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Sandip+Sangi;Together+lets+explore+Blockchain" alt="Typing SVG" />
+  </a>
+</p>
 
 <img align="right" alt="Coding" width="300" src="https://media1.tenor.com/m/lQscD8Sey_EAAAAC/blockchain-distributed.gif">
 
