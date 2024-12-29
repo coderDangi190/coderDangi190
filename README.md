@@ -1,10 +1,21 @@
-# 💫 About Me:
-I am currently pursuing a bachelor's degree and am passionate about technology and innovation. My primary focus is to develop a strong foundation in blockchain technology, aiming to gain sufficient skills to contribute meaningfully to the industry. I am driven by the potential of blockchain to revolutionize various sectors and am committed to continuous learning and practical application of this transformative technology
 
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/sundeep.dangi.9/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/dangisundeep/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sandipdangi/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/coderDangi) 
+<img align="right" alt="Coding" width="300" src="https://media1.tenor.com/m/lQscD8Sey_EAAAAC/blockchain-distributed.gif">
 
+- 🚀 I'm currently working on Blockchain Bootcamp.
+- 🌱 I'm currently learning **Blockchain**
+- 👥 I'm looking to collaborate on  **Blockchain Developer**
+- 💬 Ask me about **Blockchain**
+- 📫 How to reach me **sandangi920@gmail.com**
+- ⚡ Fun fact **The Sun’s Core is Extremely Hot .**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/sandipdangi/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg "height="30" width="40" /></a>
+<a href=" https://facebook.com/https://www.facebook.com/sundeep.dangi.9/"><img align="center" src=" https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" height="30" width="40" ></a>
+<a href="https://instagram.com/https://www.instagram.com/dangisundeep/ "><img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white " height="30" width="40" ></a>
+<a href=" https://x.com/https://x.com/coderDangi"><img align="center" src=" https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" height="30" width="40" ></a>
+</p>
 <div>
   <h2 align="center">🛠️ Languages and Technologies 🛠️</h2>
 
